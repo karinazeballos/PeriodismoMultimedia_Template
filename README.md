@@ -13,7 +13,7 @@ Univesidad de Granada
 
 **Titulo** : _______
 
-**Autor(es)** ______________
+**Autor(es)** ______Diana Ioana Marteniuc ________
 
 **Resumen** : _________
 
