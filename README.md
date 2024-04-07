@@ -17,7 +17,8 @@ Univesidad de Granada
 
 **Resumen** : _________
 
-**logotipo** :  ![Echoes of the sea LOGO](https://github.com/karinazeballos/karinazeballos.github.io/assets/165934819/f66a3807-76ce-4e86-b1a8-e9c8a94e2b23)
+**logotipo** : 
+![Echoes of the sea LOGO](https://github.com/karinazeballos/karinazeballos.github.io/assets/165934819/f66a3807-76ce-4e86-b1a8-e9c8a94e2b23)
 
 
 **Slogan** (frase motivadora/inspiradora): ________
