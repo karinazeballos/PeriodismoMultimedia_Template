@@ -15,7 +15,7 @@ Univesidad de Granada
 
 **Autor(es)** Diana Ioana Marteniuc, Karina Zeballos Fernández
 
-**Resumen** : _________
+**Resumen** : Marina es una joven que padece de esquizofrenia y cuyo sueño es cantar. En su mundo alucinógeno, es una sirena que tiene por amigo a una pequeña nutria, Otis. Junto a su peludo amigo, se enfrenta a piratas y rescata a Doris, encarnada como amor platónico. Busca la isla perdida en la que su abuela triunfó cantando, para poder cumplir su sueño de éxito. Lo que ella no sabe es que esa isla es realmente una metáfora de la solución en la vida real a su enfermedad... ¿Será capaz de descubrirlo?
 
 **Logotipo** : 
 
