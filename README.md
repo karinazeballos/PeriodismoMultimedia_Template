@@ -33,7 +33,7 @@ Univesidad de Granada
 
 **Medios** (donde se tiene presencia): Github
 
-
+cards: https://karinazeballos.github.io    https://dianaim01.github.io/
 * ArcWeave: https://arcweave.com/app/project/1M62JP26wr/play
 * Protopie:
 * Ren'Py: https://karinazeballos.github.io/EchoesoftheSea/
